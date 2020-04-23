@@ -1,9 +1,9 @@
 # SpotifyAuto
-Spotify Auto Create Account + Auto BIN Generate CC + Checker CC
-Noted : isi email tanpa @ ya soalnya udh auto ke @gmail.com
-(Ini bukan Auto Pay jadi hrs manual)
-Windows use XAMPP
-Android use TERMUX
+Spotify Auto Create Account + Auto BIN Generate CC + Checker CC<br><br>
+Noted : isi email tanpa @ ya soalnya udh auto ke @gmail.com<br><br>
+(Ini bukan Auto Pay jadi hrs manual)<br>
+Windows use XAMPP<br>
+Android use TERMUX<br>
 
 # Install
   
