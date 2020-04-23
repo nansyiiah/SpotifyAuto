@@ -1,14 +1,14 @@
 # SpotifyAuto
 Spotify Auto Create + Auto Generate CC + Checker CC
 
-Install
+# Install
   
-  $ pkg install git
-  $ pkg install php
-  $ git clone https://github.com/zeldriss/SpotifyAuto/git
-  $ cd SpotifyAuto
+  $ pkg install git<br>
+  $ pkg install php<br>
+  $ git clone https://github.com/zeldriss/SpotifyAuto/git<br>
+  $ cd SpotifyAuto<br>
 
-Run
+# Run
 
   $ php spotifyauto.php
 
